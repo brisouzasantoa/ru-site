@@ -1,7 +1,6 @@
 /* === Estilo Único para RU === */
 .cpa-highlight {
-    background: linear-gradient(135deg, rgba(0, 150, 255, 0.08), rgba(0, 86, 179, 0.08)) !important;
-    border: 1px solid rgba(255,255,255,0.1);
+    background: linear-gradient(135deg, rgba(0, 150, 255, 0.08), rgba(0, 86, 179, 0.08));
 }
 
 .claim-btn {
